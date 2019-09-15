@@ -1,2 +1,2 @@
 # fp-in-scala-solutions
-Solutions for data61 fp course
+Solutions for fp in scala aka red book
